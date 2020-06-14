@@ -10,7 +10,7 @@ const Balance = () => {
                 <h3>Income</h3>
                 <p>+$0.00</p>
             </div>
-            <div className="minud">
+            <div className="minus">
                 <h3>Expenses</h3>
                 <p>-$0.00</p>
             </div>
